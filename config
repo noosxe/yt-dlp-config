@@ -1,0 +1,3 @@
+--no-abort-on-error
+--retries 20
+--retry-sleep exp=1:20
